@@ -1,0 +1,11 @@
+body
+    {
+         background-color: bisque;
+         background-position:center;
+         background-size:cover;
+    } 
+
+
+.header-class{
+    background-image: linear-gradient(230deg, rgb(5, 13, 19) 2%, rgb(22, 22, 22) 35%, rgb(12, 12, 11) 35.7639%, rgb(19, 18, 18) 87%);
+}
